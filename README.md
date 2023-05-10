@@ -1,5 +1,4 @@
 # Explore-Weather-Trends 
-#### Udacity- Data Analyst Nanodegree
 
 ## Overview
 This project will analyze the local and global temperature data and compare the temperature trends to the closest city i live to overall global temperature trends.
@@ -25,5 +24,4 @@ i calculated the Moving Averages in 10,15,20 years for both thr temperature data
      - “How do the changes in your city’s temperatures over time compare to the changes in the global average?”
      - What does the overall trend look like? Is the world getting hotter or cooler? Has the trend been consistent over the last few hundred years?
 
-## Source
-Credit to Udacity for the data. The Licensing for the data and other descriptive information at Udacity Website in Udacity Data Analyst Degree in Project I: Explore Weather Trends.
+
